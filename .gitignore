@@ -1,0 +1,39 @@
+## SQL Server Management Studio (SSMS) & VS Temporary Files
+*.ssmssqlproj
+*.ssmsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Database Engine Files (Do not commit actual database data files)
+*.mdf
+*.ldf
+*.ndf
+
+## Operating System Files
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## IDE & Text Editors
+.vs/
+.idea/
+.vscode/
+*.swp
+*~
+
+## Log & Backup Files
+*.log
+*.tmp
+*.bkp
