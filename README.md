@@ -84,7 +84,7 @@ By completing these exercises, I aim to improve my understanding of:
 27. [Problem_27_Get all vehicles that their Body is 'Coupe' or 'Hatchback' or 'Sedan'](./Problems/Problem_27_Get%20all%20vehicles%20that%20their%20Body%20is%20'Coupe'%20or%20'Hatchback'%20or%20'Sedan'/Problem_27.sql)
 28. [Problem_28_Get all vehicles that their body is 'Coupe' or 'Hatchback' or 'Sedan' and manufactured in year 2008 or 2020 or 2021](./Problems/Problem_28_Get%20all%20vehicles%20that%20their%20body%20is%20'Coupe'%20or%20'Hatchback'%20or%20'Sedan'%20and%20manufactured%20in%20year%202008%20or%202020%20or%202021/Problem_28.sql)
 29. [Problem_29_Return found=1 if there is any vehicle made in year 1950](./Problems/Problem_29_Return%20found=1%20if%20there%20is%20any%20vehicle%20made%20in%20year%201950/Problem_29.sql)
-30. [Problem_30_Get all Vehicle_Display_Name, NumDoors and add extra column to describe number of doors by words, and if door is null display 'Not Set']()
+30. [Problem_30_Get all Vehicle_Display_Name, NumDoors and add extra column to describe number of doors by words, and if door is null display 'Not Set'](./Problems/Problem_30_Get%20all%20Vehicle_Display_Name,%20NumDoors%20and%20add%20extra%20column%20to%20describe%20number%20of%20doors%20by%20words,%20and%20if%20door%20is%20null%20display%20'Not%20Set'/Problem_30.sql)
 31. [Problem_31_Get all Vehicle_Display_Name, year and add extra column to calculate the age of the car then sort the results by age desc]()
 32. [Problem_32_Get all Vehicle_Display_Name, year, Age for vehicles that their age between 15 and 25 years old]()
 33. [Problem_33_Get Minimum Engine CC , Maximum Engine CC , and Average Engine CC of all Vehicles]()
