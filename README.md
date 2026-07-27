@@ -88,7 +88,7 @@ By completing these exercises, I aim to improve my understanding of:
 31. [Problem_31_Get all Vehicle_Display_Name, year and add extra column to calculate the age of the car then sort the results by age desc](./Problems/Problem_31_Get%20all%20Vehicle_Display_Name,%20year%20and%20add%20extra%20column%20to%20calculate%20the%20age%20of%20the%20car%20then%20sort%20the%20results%20by%20age%20desc/Problem_31.sql)
 32. [Problem_32_Get all Vehicle_Display_Name, year, Age for vehicles that their age between 15 and 25 years old](./Problems/Problem_32_Get%20all%20Vehicle_Display_Name,%20year,%20Age%20for%20vehicles%20that%20their%20age%20between%2015%20and%2025%20years%20old/Problem_32.sql)
 33. [Problem_33_Get Minimum Engine CC , Maximum Engine CC , and Average Engine CC of all Vehicles](./Problems/Problem_33_Get%20Minimum%20Engine%20CC%20,%20Maximum%20Engine%20CC%20,%20and%20Average%20Engine%20CC%20of%20all%20Vehicles/Problem_33.sql)
-34. [Problem_34_Get all vehicles that have the minimum Engine_CC]()
+34. [Problem_34_Get all vehicles that have the minimum Engine_CC](./Problems/Problem_34_Get%20all%20vehicles%20that%20have%20the%20minimum%20Engine_CC/Problem_34.sql)
 35. [Problem_35_Get all vehicles that have the Maximum Engine_CC]()
 36. [Problem_36_Get all vehicles that have Engin_CC below average]()
 37. [Problem_37_Get total vehicles that have Engin_CC above average]()
