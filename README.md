@@ -93,7 +93,7 @@ By completing these exercises, I aim to improve my understanding of:
 36. [Problem_36_Get all vehicles that have Engin_CC below average](./Problems/Problem_36_Get%20all%20vehicles%20that%20have%20Engin_CC%20below%20average/Problem_36.sql)
 37. [Problem_37_Get total vehicles that have Engin_CC above average](./Problems/Problem_37_Get%20total%20vehicles%20that%20have%20Engin_CC%20above%20average/Problem_37.sql)
 38. [Problem_38_Get all unique Engin_CC and sort them Desc](./Problems/Problem_38_Get%20all%20unique%20Engin_CC%20and%20sort%20them%20Desc/Problem_38.sql)
-39. [Problem_39_Get the maximum 3 Engine CC]()
+39. [Problem_39_Get the maximum 3 Engine CC](./Problems/Problem_39_Get%20the%20maximum%203%20Engine%20CC/Problem_39.sql)
 40. [Problem_40_Get all vehicles that has one of the Max 3 Engine CC]()
 41. [Problem_41_Get all Makes that manufactures one of the Max 3 Engine CC]()
 42. [Problem_42_Get a table of unique Engine_CC and calculate tax per Engine CC]()
