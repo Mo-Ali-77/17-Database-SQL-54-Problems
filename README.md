@@ -86,7 +86,7 @@ By completing these exercises, I aim to improve my understanding of:
 29. [Problem_29_Return found=1 if there is any vehicle made in year 1950](./Problems/Problem_29_Return%20found=1%20if%20there%20is%20any%20vehicle%20made%20in%20year%201950/Problem_29.sql)
 30. [Problem_30_Get all Vehicle_Display_Name, NumDoors and add extra column to describe number of doors by words, and if door is null display 'Not Set'](./Problems/Problem_30_Get%20all%20Vehicle_Display_Name,%20NumDoors%20and%20add%20extra%20column%20to%20describe%20number%20of%20doors%20by%20words,%20and%20if%20door%20is%20null%20display%20'Not%20Set'/Problem_30.sql)
 31. [Problem_31_Get all Vehicle_Display_Name, year and add extra column to calculate the age of the car then sort the results by age desc](./Problems/Problem_31_Get%20all%20Vehicle_Display_Name,%20year%20and%20add%20extra%20column%20to%20calculate%20the%20age%20of%20the%20car%20then%20sort%20the%20results%20by%20age%20desc/Problem_31.sql)
-32. [Problem_32_Get all Vehicle_Display_Name, year, Age for vehicles that their age between 15 and 25 years old]()
+32. [Problem_32_Get all Vehicle_Display_Name, year, Age for vehicles that their age between 15 and 25 years old](./Problems/Problem_32_Get%20all%20Vehicle_Display_Name,%20year,%20Age%20for%20vehicles%20that%20their%20age%20between%2015%20and%2025%20years%20old/Problem_32.sql)
 33. [Problem_33_Get Minimum Engine CC , Maximum Engine CC , and Average Engine CC of all Vehicles]()
 34. [Problem_34_Get all vehicles that have the minimum Engine_CC]()
 35. [Problem_35_Get all vehicles that have the Maximum Engine_CC]()
