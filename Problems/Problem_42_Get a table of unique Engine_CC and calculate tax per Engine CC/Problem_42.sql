@@ -19,8 +19,3 @@ from
 	
 ) R1
 order by Engine_CC
-
-
-
-
-
