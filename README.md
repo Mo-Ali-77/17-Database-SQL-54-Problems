@@ -102,7 +102,7 @@ By completing these exercises, I aim to improve my understanding of:
 45. [Problem_45_Get Number of Models Per Make](./Problems/Problem_45_Get%20Number%20of%20Models%20Per%20Make/Problem_45.sql) 
 46. [Problem_46_Get the highest 3 manufacturers that make the highest number of models](./Problems/Problem_46_Get%20the%20highest%203%20manufacturers%20that%20make%20the%20highest%20number%20of%20models/Problem_46.sql) 
 47. [Problem_47_Get the highest number of models manufactured](./Problems/Problem_47_Get%20the%20highest%20number%20of%20models%20manufactured/Problem_47.sql) 
-48. [Problem_48_Get the highest Manufacturers manufactured the highest number of models]() 
+48. [Problem_48_Get the highest Manufacturers manufactured the highest number of models](./Problems/Problem_48_Get%20the%20highest%20Manufacturers%20manufactured%20the%20highest%20number%20of%20models/Problem_48.sql) 
 49. [Problem_49_Get the Lowest Manufacturers manufactured the lowest number of models]() 
 50. [Problem_50_Get all Fuel Types , each time the result should be showed in random order]() 
 51. [Problem_51_Get all employees that have manager along with Manager's name]() 
