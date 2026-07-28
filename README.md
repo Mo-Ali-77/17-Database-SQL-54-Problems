@@ -105,10 +105,10 @@ By completing these exercises, I aim to improve my understanding of:
 48. [Problem_48_Get the highest Manufacturers manufactured the highest number of models](./Problems/Problem_48_Get%20the%20highest%20Manufacturers%20manufactured%20the%20highest%20number%20of%20models/Problem_48.sql) 
 49. [Problem_49_Get the Lowest Manufacturers manufactured the lowest number of models](./Problems/Problem_49_Get%20the%20Lowest%20Manufacturers%20manufactured%20the%20lowest%20number%20of%20models/Problem_49.sql) 
 50. [Problem_50_Get all Fuel Types , each time the result should be showed in random order](./Problems/Problem_50_Get%20all%20Fuel%20Types%20,%20each%20time%20the%20result%20should%20be%20showed%20in%20random%20order/Problem_50.sql) 
-51. [Problem_51_Get all employees that have manager along with Manager's name]() 
-52. [Problem_52_Get all employees that have manager or does not have manager along with Manager's name, incase no manager name show null]() 
-53. [Problem_53_Get all employees that have manager or does not have manager along with Manager's name, incase no manager name the same employee name as manager to himself]() 
-54. [Problem_54_Get All Employees managed by 'Mohammed']() 
+51. [Problem_51_Get all employees that have manager along with Manager's name](./Problems/Problem_51_to_54%20Self%20Referential%20Queries/Problem_51.sql) 
+52. [Problem_52_Get all employees that have manager or does not have manager along with Manager's name, incase no manager name show null](./Problems/Problem_51_to_54%20Self%20Referential%20Queries/Problem_52.sql) 
+53. [Problem_53_Get all employees that have manager or does not have manager along with Manager's name, incase no manager name the same employee name as manager to himself](./Problems/Problem_51_to_54%20Self%20Referential%20Queries/Problem_53.sql) 
+54. [Problem_54_Get All Employees managed by 'Mohammed'](./Problems/Problem_51_to_54%20Self%20Referential%20Queries/Problem_54.sql) 
 
 **Notes:** 
 
