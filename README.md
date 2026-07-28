@@ -99,7 +99,7 @@ By completing these exercises, I aim to improve my understanding of:
 42. [Problem_42_Get a table of unique Engine_CC and calculate tax per Engine CC](./Problems/Problem_42_Get%20a%20table%20of%20unique%20Engine_CC%20and%20calculate%20tax%20per%20Engine%20CC/Problem_42.sql)
 43. [Problem_43_Get Make and Total Number Of Doors Manufactured Per Make](./Problems/Problem_43_Get%20Make%20and%20Total%20Number%20Of%20Doors%20Manufactured%20Per%20Make/Problem_43.sql)
 44. [Problem_44_Get Total Number Of Doors Manufactured by 'Ford'](./Problems/Problem_44_Get%20Total%20Number%20Of%20Doors%20Manufactured%20by%20'Ford'/Problem_44.sql)
-45. [Problem_45_Get Number of Models Per Make]() 
+45. [Problem_45_Get Number of Models Per Make](./Problems/Problem_45_Get%20Number%20of%20Models%20Per%20Make/Problem_45.sql) 
 46. [Problem_46_Get the highest 3 manufacturers that make the highest number of models]() 
 47. [Problem_47_Get the highest number of models manufactured]() 
 48. [Problem_48_Get the highest Manufacturers manufactured the highest number of models]() 
